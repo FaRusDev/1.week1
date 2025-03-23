@@ -67,4 +67,5 @@ li button {
 .completed {
   text-decoration: line-through;
   color: #777;
+  background-color: #f4f4f4;
 }
